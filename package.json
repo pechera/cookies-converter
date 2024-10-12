@@ -1,0 +1,14 @@
+{
+    "name": "cookie_converter",
+    "version": "1.0.0",
+    "description": "Convert Netscape to Json Cookies and vice versa",
+    "main": "index.js",
+    "author": "Roman Pechera",
+    "keywords": [
+        "cookies converter",
+        "netscape",
+        "json"
+    ],
+    "license": "ISC",
+    "type": "module"
+}
